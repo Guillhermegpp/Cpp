@@ -1,4 +1,4 @@
-Para linguagem C - "gcc -o saida" 
-Para linguagem Cpp - g++ -o saida" 
+Para linguagem C - "gcc programa.c -o saida" 
+Para linguagem Cpp - g++ programa.cpp -o saida" 
 
 executar - ./saida
