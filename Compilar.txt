@@ -1,0 +1,4 @@
+Para linguagem C - "gcc -o saida" 
+Para linguagem Cpp - g++ -o saida" 
+
+executar - ./saida
